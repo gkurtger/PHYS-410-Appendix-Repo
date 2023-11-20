@@ -1,0 +1,4 @@
+if i had known/remembered pandas was a thing during p410, the project would have taken me three weeks instead of fourteen. pd/np vectorization should also make this entire thing MUCH faster.
+
+Translation begins: 01/10/23
+Translation largely ends, then freezes: 04/10/2023
